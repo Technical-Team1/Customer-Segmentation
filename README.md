@@ -12,6 +12,9 @@ This notebook analyzing the content of an E-commerce database. Based on this ana
 * nltk
 * wordcloud
 * jupyter notebook
+  
+# Dataset
+https://drive.google.com/file/d/1AHVegIgukn892eydVW-PSjsDqhcUZQFg/view?usp=drive_link
 
 ## Install dependencies
 ```
